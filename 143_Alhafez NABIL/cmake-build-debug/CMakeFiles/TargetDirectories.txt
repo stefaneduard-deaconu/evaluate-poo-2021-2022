@@ -1,0 +1,3 @@
+D:/PhD/Business/UB Projects/Colocviu 143/143/143_Alhafez NABIL/cmake-build-debug/CMakeFiles/colocviu.dir
+D:/PhD/Business/UB Projects/Colocviu 143/143/143_Alhafez NABIL/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PhD/Business/UB Projects/Colocviu 143/143/143_Alhafez NABIL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
